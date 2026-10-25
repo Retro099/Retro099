@@ -1,6 +1,6 @@
 # Prithivi Raj Mohanta
 
-I build AI tools that read Japanese text, and I measure how well each one works. Below are three projects, each with its data, its numbers and where it falls short.
+I build and test AI systems. Below are three projects, each with its data, its numbers and where it falls short. Two of them work with Japanese text.
 
 **Currently (2026-10-25):** studying for JLPT N2 (syllabus started 2026-10-25), taking N2 on 6 Dec 2026; CRM extraction evaluation upgrade in progress.
 
